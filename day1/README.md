@@ -1,4 +1,4 @@
-# Linux-Essentials
+# DAY 1 Linux-Essentials
 
 # 🧑‍💻 Linux User Folder Setup Script
 

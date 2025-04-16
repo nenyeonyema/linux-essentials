@@ -21,7 +21,21 @@ By the end of this series, you will be able to:
 
 ## 🗂 Folder Structure
 
-linux_essentials/ │ ├── Day1_User_And_Permissions/ │ ├── create_user.sh │ └── README.md │ ├── Day2_Packages_And_Groups/ │ ├── manage_packages.sh │ └── README.md │ ├── Day3_File_Permissions_And_Ownership/ │ ├── permission_practice.sh │ └── README.md │ ├── Day4_Networking_Basics/ │ ├── check_ip.sh │ └── README.md │ ├── Day5_SSH_And_Remote_Access/ │ ├── setup_ssh.sh │ └── README.md │ ├── Day6_Automation_With_Bash/ │ ├── scheduled_tasks.sh │ └── README.md │ ├── Day7_Python_Boto3_Intro/ │ ├── list_s3_buckets.py │ └── README.md │ └── README.md ← You are here
+.
+├── README.md
+├── day1
+│   └── create_user.sh
+├── day2
+│   ├── group_setup.sh
+│   └── user_group_setup.sh
+└── shell_scripting
+    ├── conditional.sh
+    ├── create_files.sh
+    ├── find_word.sh
+    ├── iterations.sh
+    ├── nodeHealth.sh
+    ├── print_name.sh
+    └── test
 
 
 ---

@@ -20,7 +20,7 @@ By the end of this series, you will be able to:
 ---
 
 ## 🗂 Folder Structure
-
+```bash
 .
 ├── README.md
 ├── day1
@@ -36,7 +36,7 @@ By the end of this series, you will be able to:
     ├── nodeHealth.sh
     ├── print_name.sh
     └── test
-
+```
 
 ---
 

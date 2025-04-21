@@ -4,7 +4,7 @@ This README documents two Bash scripts used for practicing Linux package manager
 
 ---
 
-## 📁 Script 1: `day5_package_services.sh`
+## 📁 Script 1: `package_services.sh`
 
 ### 🔍 What It Does
 

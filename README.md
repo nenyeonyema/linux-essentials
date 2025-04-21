@@ -30,6 +30,8 @@ By the end of this series, you will be able to:
 │   └── user_group_setup.sh
 ├── day3
 │   └── shared_permission.sh
+├── day4
+│   └── envs_vars.sh
 └── shell_scripting
     ├── conditional.sh
     ├── create_files.sh

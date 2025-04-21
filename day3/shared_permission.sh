@@ -5,8 +5,6 @@ set -e
 
 echo " Day 3 Linux permission & ownership practice..."
 
-# Step 1: Move into day3 practice directory
-cd ~/linux_essentials/day3
 
 # Step 2: Create a file with read-only access to others
 touch readonly_file.txt
